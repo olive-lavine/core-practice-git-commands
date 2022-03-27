@@ -13,6 +13,8 @@ def test_always_returns_true():
 def jae_function():
     return True 
 
+new_list = [1,2,3,4]
+
 def test_heathers_function():
     test_data = False
     test_return = heathers_function(test_data)
